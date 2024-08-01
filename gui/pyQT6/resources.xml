@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="serial_port">端口:</string>
+    <string name="serial_baudrate">波特率:</string>
+    <string name="serial_stopbit">停止位:</string>
+    <string name="serial_databit">数据位:</string>
+    <string name="serial_checkbit">校验位:</string>
+    <string name="serial_open">打开串口</string>
+    <string name="serial_close">关闭串口</string>
+    <string name="serial_send">发送</string>
+    <string name="serial_isHex">十六进制</string>
+    <string name="serial_timer">定时</string>
+</resources>
